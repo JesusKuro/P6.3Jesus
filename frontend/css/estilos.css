@@ -1,6 +1,9 @@
 body {
-    font-family: 'Arial', sans-serif;
+    /* INC465 - Cambio de fuente */
+font-family: 'Helvetica', 'Arial', sans-serif;
     margin: 0;
+    /* INC465 - Cambio de color corporativo */
+background-color: #3f94b6;
     padding: 0;
     line-height: 1.6;
     background-image:url(../img/fondo-usuarios.jpg);
