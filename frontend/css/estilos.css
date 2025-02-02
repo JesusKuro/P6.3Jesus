@@ -1,0 +1,129 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-image:url(../img/fondo-usuarios.jpg);
+  }
+
+  header {
+    background: #052c66;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    display: flex;
+  }
+  
+  h1 {
+    width: 90%;
+  }
+
+  #logo {
+    width: 75px;
+    height: 50px;
+    margin: auto;
+    border-radius: 10px;
+    margin-left: 40px;
+  }
+    
+  main {
+    padding: 10px 30px;
+    margin: 30px auto;
+    width: 70%;
+    background-color: #cbdaf0;  
+    border-radius: 10px;  
+    /*min-width: 250px;*/
+    display: flex;
+  }
+
+  #inicio {
+    color: #030d4b;
+    border-radius: 20px;
+    font-size: 20px;
+  }
+
+  #create, #list {
+    width: 50%;
+  }
+
+  #userList li:hover {
+    cursor: pointer;
+    background-color: #d4a300;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  p {
+    text-align: center;
+    margin: 10px 10px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+    align-items: center;
+  }
+ 
+  .form-group {
+    margin: 15px auto;
+    margin-left: 35px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 70%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .btn-inicio {
+      width: 200px;
+  }
+
+  .btn, .btn-inicio {
+    background: #0c2747; 
+    color: white;
+    border: none;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover, .btn-inicio:hover{
+    background: #d4a300;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    background: #fff;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  footer {
+    background: #052c66;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  

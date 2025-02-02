@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "Manel",
+      "dni": "22448877X",
+      "phone": "857965412",
+      "email": "manel@edu.gva.es"
+    },
+    {
+      "id": 2,
+      "user": "Noelia",
+      "dni": "44885235T",
+      "phone": "656542645",
+      "email": "nuria@edu.gva.es"
+    },
+    {
+      "id": 3,
+      "user": "Mateo",
+      "dni": "88552246M",
+      "phone": "656542645",
+      "email": "mateo@edu.gva.es"
+    },
+    {
+      "id": 4,
+      "user": "Zoe",
+      "dni": "86579966H",
+      "phone": "656542645",
+      "email": "zoe@edu.gva.es"
+    },
+    {
+      "id": 5,
+      "user": "Amanda",
+      "dni": "88559966L",
+      "phone": "666777888",
+      "email": "amanda@edu.gva.es"
+    }
+  ]
+}
